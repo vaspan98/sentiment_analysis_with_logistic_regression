@@ -17,7 +17,7 @@ Our goal is to develop a sentiment classifier using Logistic Regression for a Tw
 3. We check for overfitting / underfitting by applying a Stratified 10-fold Cross Validation on the training set.
 
 ## Tips
-Add the 'SentimentTweets.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
+Add the `SentimentTweets.csv` dataset in your `gdrive/My Drive/Colab Notebooks/` path to execute correctly
 
 ## Author
 Vassilis Panagakis
